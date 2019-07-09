@@ -1,0 +1,26 @@
+{
+  "name": "lightmongooseheroku",
+  "version": "1.0.0",
+  "description": "lending page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "8.11.3",
+    "npm": "5.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NovoseletskiyVadim/lightMongooseHeroku.git"
+  },
+  "author": "Novoseletskiy Vadim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NovoseletskiyVadim/lightMongooseHeroku/issues"
+  },
+  "homepage": "https://github.com/NovoseletskiyVadim/lightMongooseHeroku#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
